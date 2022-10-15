@@ -8,7 +8,7 @@ craft refiner: https://drive.google.com/file/d/1XSaFwBkOaFOdtk4Ane3DFyJGPRw6v5bO
 
 Create new file "checkpoint" and save model edge and file config
 
-download file weight:
+download file weight trained:
 https://drive.google.com/drive/folders/1cGwDaZqDcqYU7kDuEbMXa9TP3uDJRBR1
 download file config: 
 https://github.com/knazeri/edge-connect/blob/master/config.yml.example
