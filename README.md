@@ -1,4 +1,4 @@
-# translate_vi2eng
+# translate vietnamese text to english text
 Create new file "weight" to save model craft and vietocr
 
 link:
